@@ -17,7 +17,7 @@ Optimized build for Crimson Desert that reduces system overhead and restores con
 
 ## 📋 Overview
 
-Crimson Desert launched on March 19, 2026, and the BlackSpace engine delivers a surprisingly well-optimized open world — Digital Foundry notes it scales gracefully across hardware tiers [citation:12]. But performance isn't perfect. The game carries system overhead that eats into frame rates, and traversal stutter shows up even on capable hardware due to asset streaming and shader compilation.
+Crimson Desert launched on March 19, 2026, and the BlackSpace engine delivers a surprisingly well-optimized open world — Digital Foundry notes it scales gracefully across hardware tiers. But performance isn't perfect. The game carries system overhead that eats into frame rates, and traversal stutter shows up even on capable hardware due to asset streaming and shader compilation.
 
 **Crimson Desert Clean Build** addresses this directly. It replaces the original game files with a lightweight configuration that removes background overhead, eliminates online checks, and gives the engine a clear path to your hardware.
 
